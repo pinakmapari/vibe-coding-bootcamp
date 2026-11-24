@@ -11,3 +11,7 @@
 ## Problem
 - [starter-problems.md](starter-problems.md): the 12 starter problems and the four Science for Humanity areas
 - [problem-decision.md](problem-decision.md): candidates, evidence and the decision (open)
+
+## Prototype and pitch
+- [prototype-loop.md](prototype-loop.md): Loop, the prototype Juan built (what exists, assumptions, risks)
+- [pitch-outline.md](pitch-outline.md): 3-minute pitch skeleton with gaps marked
